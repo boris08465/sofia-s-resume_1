@@ -27,7 +27,7 @@ body {
     position: relative;
     margin: 0;
     padding: 0;
-    border-right: 2px solid rgb(255, 159, 95);
+    border-right: 2px solid rgb(255, 176, 123);
 }
 #section-topbar ul#nav>li{
     display: block;
@@ -36,16 +36,16 @@ body {
 }
 #section-topbar ul#nav a {
     display: block;
-    padding: 18px 20px 18px 20px;
-    border-left: 2px solid rgb(255, 159, 95);
+    padding: 22px 26px 22px 26px;
+    border-left: 2px solid rgb(255, 176, 123);
 }
 
 #section-topbar un#nav a:focus {
     background: rgb(255, 206, 174);
 }
 #section-topbar ul#nav a:hover {
-    background: # rgb(255, 206, 174);
-    border-right: 1px solid #111;
+    background: rgb(255, 206, 174);
+    border-right: 2px solid rgb(255, 119, 28);
 }
 /* Headerwrap */
 
