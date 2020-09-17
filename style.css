@@ -18,7 +18,7 @@ body {
 }
 
 #topbar-inner {
-    background: #2c2a2a;
+    background:  rgb(255, 206, 174);
     line-height: 0;
     text-align: center;
 }
@@ -27,7 +27,7 @@ body {
     position: relative;
     margin: 0;
     padding: 0;
-    border-right: 2px solid rgb(73, 73, 73);
+    border-right: 2px solid rgb(255, 159, 95);
 }
 #section-topbar ul#nav>li{
     display: block;
@@ -37,14 +37,14 @@ body {
 #section-topbar ul#nav a {
     display: block;
     padding: 18px 20px 18px 20px;
-    border-left: 2px solid rgb(73, 73, 73);
+    border-left: 2px solid rgb(255, 159, 95);
 }
 
 #section-topbar un#nav a:focus {
-    background: #111;
+    background: rgb(255, 206, 174);
 }
 #section-topbar ul#nav a:hover {
-    background: #222;
+    background: # rgb(255, 206, 174);
     border-right: 1px solid #111;
 }
 /* Headerwrap */
